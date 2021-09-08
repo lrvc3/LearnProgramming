@@ -1,0 +1,6 @@
+# Ignore folder
+.cph
+
+# Ignore files 
+*.bin
+*.exe
