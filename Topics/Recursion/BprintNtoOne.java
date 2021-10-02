@@ -1,8 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-
-class Main {
+public class BprintNtoOne {
 	public static void main (String[] args) {
 
 
@@ -37,18 +36,17 @@ class Main {
 	}
 }
 
-class Solution
-{
-    
-  public void printNos(int N)
-    {
-        if(N == 1){
-            System.out.print(1 + " ");
-            return;
-        }
-        
-        printNos(N-1);
-        System.out.print(N + " ");
-    }
-}
+class Solution {
 
+	public void printNos(int n) {
+
+		if (n == 1) {
+			System.out.print(1 + " ");
+			return;
+		}
+
+		System.out.print(n + " ");
+		printNos(n - 1);
+
+	}
+}

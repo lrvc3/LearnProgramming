@@ -58,9 +58,9 @@ After each branch, we have taken the decision.
 
 ## other methods to do recursion:
 
-i/p - o/p = We know decisions to take
-Base Condition - Induction - Hypothesis
-Choice Diagram (DP series)
+ - i/p - o/p = We know decisions to take
+ - Base Condition - Induction - Hypothesis
+ - Choice Diagram (DP series)
 
 
 Base Condition:
