@@ -4,3 +4,5 @@
 # Ignore files 
 *.bin
 *.exe
+*.txt
+*.class

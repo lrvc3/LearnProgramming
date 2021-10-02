@@ -1,7 +1,7 @@
 /*
     Problem Link: https://codeforces.com/problemset/problem/228/A
     Platform: Codeforces
-    List of Problems: 
+    List of Problems: https://codeforces.com/blog/entry/82143
     Type: A
 */
 
