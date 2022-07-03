@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LongestConsectiveSequence",
+            "request": "launch",
+            "mainClass": "Topics.Graphs.DSU.LongestConsectiveSequence",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintLCSubsequence",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.LongestCommonSubSequence.PrintLCSubsequence",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LISubSequence",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.LongestIncreasingSubSequence.LISubSequence",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch SlidingWindowMax",
+            "request": "launch",
+            "mainClass": "Topics.SlidingWindow.SlidingWindowMax",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContainVirus",
+            "request": "launch",
+            "mainClass": "Topics.Graphs.DSU.ContainVirus",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomDebug",
+            "request": "launch",
+            "mainClass": "OnlineJudges.RandomDebug",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch APuzzles",
+            "request": "launch",
+            "mainClass": "OnlineJudges.Codeforces.APuzzles",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch APuzzles",
+            "request": "launch",
+            "mainClass": "APuzzles",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumTimeToType",
+            "request": "launch",
+            "mainClass": "MinimumTimeToType",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintPairsWithTargetSum",
+            "request": "launch",
+            "mainClass": "Topics.TwoPointer.PrintPairsWithTargetSum",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.MatrixChainMultiplication.MatrixMultiplication",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChangeII",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.KnapSack.UnboundedKnapsack.CoinChangeII",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chef_and_Reversing",
+            "request": "launch",
+            "mainClass": "Chef_and_Reversing",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch CodeChef",
+            "request": "launch",
+            "mainClass": "CodeChef",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch cMinDeletionsToMakeCharFrequencyUnique",
+            "request": "launch",
+            "mainClass": "CompanySpecificQuestions.Microsoft.cMinDeletionsToMakeCharFrequencyUnique",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch dMinNoOfSwapsToMakePalindrome",
+            "request": "launch",
+            "mainClass": "CompanySpecificQuestions.Microsoft.dMinNoOfSwapsToMakePalindrome",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch eMinStepsToMakeHeightEqual",
+            "request": "launch",
+            "mainClass": "CompanySpecificQuestions.Microsoft.eMinStepsToMakeHeightEqual",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch fLargestKsuchthatbothKandNegativeKexistinarray",
+            "request": "launch",
+            "mainClass": "CompanySpecificQuestions.Microsoft.fLargestKsuchthatbothKandNegativeKexistinarray",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Equal_Coins",
+            "request": "launch",
+            "mainClass": "Equal_Coins",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountSubsetsOfGivenSum",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.KnapSack.CountSubsetsOfGivenSum",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualSumPartition",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.KnapSack.EqualSumPartition",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumSubsetSumDiff",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.KnapSack.MinimumSubsetSumDiff",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.KnapSack.SubsetSum",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ZeroOneBasics",
+            "request": "launch",
+            "mainClass": "Topics.DynamicProgramming.KnapSack.ZeroOneBasics",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch aRepresentation",
+            "request": "launch",
+            "mainClass": "Topics.Graphs.aRepresentation",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_aBinaryLevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "Topics.Graphs.bBFSProblems.b_aBinaryLevelOrderTraversal",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch eTheMazeLC",
+            "request": "launch",
+            "mainClass": "Topics.Graphs.eTheMazeLC",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch AprintOnetoN",
+            "request": "launch",
+            "mainClass": "Topics.Recursion.AprintOnetoN",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch EsortArray",
+            "request": "launch",
+            "mainClass": "Topics.Recursion.EsortArray",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch FsortStack",
+            "request": "launch",
+            "mainClass": "Topics.Recursion.FsortStack",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch GdeleteMiddleElementStack",
+            "request": "launch",
+            "mainClass": "Topics.Recursion.GdeleteMiddleElementStack",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch aBoundaryTraversal",
+            "request": "launch",
+            "mainClass": "Topics.Tree.Basics.Leetcode.aBoundaryTraversal",
+            "projectName": "LearnProgramming_18f7001d"
+        },
+        {
+            "type": "java",
+            "name": "Launch aInOrderTraversal",
+            "request": "launch",
+            "mainClass": "Topics.Tree.Basics.aInOrderTraversal",
+            "projectName": "LearnProgramming_18f7001d"
+        }
+    ]
+}
